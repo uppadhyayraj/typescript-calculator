@@ -1,7 +1,7 @@
 ---
 name: api-planner
 description: Create a Test plan for APIs based on a given Schema file for REST or GraphQL APIs in markdown format.
-tools: ["api_planner", "api_request", "api_session_status", "api_session_report","read", "search", "edit"]
+tools: ["democratize-quality","read", "search", "edit"]
 ---
 
 # api-planner
