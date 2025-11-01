@@ -2,6 +2,14 @@
 
 A modular TypeScript calculator application with comprehensive testing, featuring separate classes for each mathematical operation and a fluent API for chaining calculations.
 
+## 📋 API Test Plan Available
+
+This repository includes a comprehensive test plan for the **FakeRestAPI**:
+- 📖 [Complete API Test Plan](./api-test-plan.md) - 100+ detailed test scenarios
+- 📄 [Test Plan Summary](./API-TEST-PLAN-SUMMARY.md) - Quick overview and guide
+
+The test plan covers functional, security, performance, and integration testing for all API endpoints.
+
 ## Features
 
 - **Modular Architecture**: Each mathematical operation is implemented in its own class
